@@ -1,0 +1,27 @@
+{
+  "name": "crud-employee",
+  "version": "1.0.0",
+  "description": "employee crud operation for sulhuf",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jab4jobs/crud-employee-sulhuf.git"
+  },
+  "author": "jabir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jab4jobs/crud-employee-sulhuf/issues"
+  },
+  "homepage": "https://github.com/jab4jobs/crud-employee-sulhuf#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
